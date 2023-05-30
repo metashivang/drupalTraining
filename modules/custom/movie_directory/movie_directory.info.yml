@@ -1,0 +1,5 @@
+name: Movie Directory
+description: Allow user to search for info on movies
+package: ShivangModules
+type: module
+core_version_requirement: ^9.0

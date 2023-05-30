@@ -1,0 +1,4 @@
+movie-directory-styling:
+  css:
+    theme:
+      assests/css/movie-styles.css: {}
